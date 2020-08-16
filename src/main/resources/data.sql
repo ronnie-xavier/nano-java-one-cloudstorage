@@ -1,0 +1,1 @@
+INSERT into USERS (username, salt, password, firstname, lastname) values ('2','3','4','5','6');
